@@ -1,6 +1,7 @@
 ## Hi there <img src="assets/Hi.gif" width="29px"> 
 
-I'm Arek, an Software Developer from Poland who is passionate about technologies and innovation
+I'm Arek, an Software Developer from Poland who is passionate about software development and hacking space.
+
 
 ### 📫 How to reach me:
 
