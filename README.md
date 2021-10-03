@@ -4,9 +4,10 @@ I'm Arek, an Software Developer from Poland who is passionate about technologies
 
 ### 📫 How to reach me:
 
-[![GitHub macbury](https://img.shields.io/github/followers/macbury?label=follow&style=social)](https://github.com/macbury)
-[![Linkedin Badge](https://img.shields.io/badge/-ArkadiuszBuras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arkadiusz-buras-83041810/)](https://www.linkedin.com/in/arkadiusz-buras-83041810/)
+[![GitHub](https://img.shields.io/github/followers/macbury?label=follow&style=social)](https://github.com/macbury)
+[![Linkedin](https://img.shields.io/badge/-ArkadiuszBuras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arkadiusz-buras-83041810/)](https://www.linkedin.com/in/arkadiusz-buras-83041810/)
 [![E-Mail](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@macbury.ninja)](mailto:me@macbury.ninja)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_Kisz4ua1D2zVrFfPy2aAA?label=YouTube&style=flat-square)](https://www.youtube.com/c/ArkadiuszBuras/featured)
 
 ### ⚡ Technologies
 
