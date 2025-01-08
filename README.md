@@ -1,7 +1,17 @@
-## Hi there <img src="assets/Hi.gif" width="29px"> 
+## Hi there <img src="assets/Hi.gif" width="29px">
 
 I'm Arek, an Software Developer from Poland who is passionate about software development and hacking space.
 
+### Current FUN projects
+
+#### Daily Book Reviews
+Powered by [x.com](https://x.com) to collect what are current trends in books. Then using [qwen2.5](https://ollama.com/library/qwen2.5:0.5b) to extract book titles. Then it search internet and collect reviews and synthesize them into one using Gemini and [LLAMA](https://ollama.com/library/llama3.3). Background is generated using [ComfyUI Stable Diffusion XL](https://github.com/comfyanonymous/ComfyUI) pipeline and is always based on plot setting. Then everything is converted to vTuber performance:
+
+| <video controls src="assets/gamgam.mp4" /> | <video controls src="assets/rails.mp4" /> |
+| -------- | ------- |
+
+
+You can find more here on youtube channel: [https://www.youtube.com/@BelleArctique/](https://www.youtube.com/@BelleArctique/shorts)
 
 ### 📫 How to reach me:
 
