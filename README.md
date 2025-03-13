@@ -8,9 +8,9 @@ I'm Arek, an Software Developer from Poland who is passionate about software dev
 
 Your Ruby on Rails News Stream: A 24-hour live TV stream delivering the latest Ruby on Rails updates and trending programming blog posts converted into bite-sized summaries. Stay informed with current development trends instead of watching depressing news networks like CNN or FOX in the background. The perfect ambient companion for developers who want to keep up with the Rails ecosystem while working.
 
-Go to https://www.twitch.tv/bitsbytesbyeliza for live stream.
+Go to https://www.youtube.com/@BitsBytesByEliza/streams for live stream.
 
-[![Play](assets/eliza.jpg)](https://www.twitch.tv/bitsbytesbyeliza)
+[![Play](assets/eliza.jpg)](https://www.youtube.com/@BitsBytesByEliza/streams)
 
 #### 📚 AI-Powered Book Reviews as VTuber Performances
 
