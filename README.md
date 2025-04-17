@@ -4,14 +4,6 @@ I'm Arek, an Software Developer from Poland who is passionate about software dev
 
 ### Current FUN projects
 
-#### 📚 24H AI TV station
-
-Your Ruby on Rails News Stream: A 24-hour live TV stream delivering the latest Ruby on Rails updates and trending programming blog posts converted into bite-sized summaries. Stay informed with current development trends instead of watching depressing news networks like CNN or FOX in the background. The perfect ambient companion for developers who want to keep up with the Rails ecosystem while working.
-
-Go to https://www.youtube.com/@BitsBytesByEliza/streams for live stream.
-
-[![Play](assets/eliza.jpg)](https://www.youtube.com/@BitsBytesByEliza/streams)
-
 #### 📚 AI-Powered Book Reviews as VTuber Performances
 
 Using AI to transform trending books into engaging VTuber content. Here's how it works:
@@ -27,6 +19,14 @@ Recent Reviews:
 |----------|----------|
 
 🎥 Discover more literary adventures on [YouTube](https://www.youtube.com/@BelleArctique/shorts)
+
+#### 📚 24H AI TV station
+
+Your Ruby on Rails News Stream: A 24-hour live TV stream delivering the latest Ruby on Rails updates and trending programming blog posts converted into bite-sized summaries. Stay informed with current development trends instead of watching depressing news networks like CNN or FOX in the background. The perfect ambient companion for developers who want to keep up with the Rails ecosystem while working.
+
+Go to https://www.youtube.com/@BitsBytesByEliza/streams for live stream.
+
+[![Play](assets/eliza.jpg)](https://www.youtube.com/@BitsBytesByEliza/streams)
 
 ### 📫 How to reach me:
 
